@@ -2,6 +2,7 @@
 
 By Jackson Brouwer ([https://github.com/jbrouwer5?tab=repositories]) 
 
+Standard python executable (with pygame installed)
 
 How to Play
   - Click in an empty square to capture that square
